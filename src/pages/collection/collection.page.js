@@ -19,7 +19,7 @@ const CollectionPage = ({collection})=>{
             ))
         } 
         </div>
-    </div>
+    </div> 
 )}
 
 const mapStateToProps = (state,ownProps)=>({
